@@ -1,8 +1,10 @@
 # Welcome to my GitHub Page
 
 This page shows some of the projects I'm working on. Click on the heading to go to the repository. \
-My GitHub profile can be found here: [https://github.com/keithcheungowl](https://github.com/keithcheungowl). \
 All projects are done in Python in Jupyter Notebook. Results are exported to an Excel file.
+
+# [My GitHub profile](https://github.com/keithcheungowl)
+My GitHub profile can be found here: [https://github.com/keithcheungowl](https://github.com/keithcheungowl).
 
 # Projects
 ## [S&P 500 futures](https://github.com/keithcheungowl/SP500Futures)
