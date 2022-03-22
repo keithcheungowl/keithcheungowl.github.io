@@ -7,6 +7,9 @@ All projects are done in Python in Jupyter Notebook. Results are exported to an 
 My GitHub profile can be found here: [https://github.com/keithcheungowl](https://github.com/keithcheungowl).
 
 # Projects
+## [Codewars exercises](https://github.com/keithcheungowl/Codewars)
+Contains Codewars exercises and solutions. See Codewars: https://www.codewars.com/
+
 ## [S&P 500 futures](https://github.com/keithcheungowl/SP500Futures)
 This repository analyses tick data for the S&P 500 futures contract, SP, for 2000–2019. \
 The data comes from Finnhub via Kaggle: [https://www.kaggle.com/finnhub/sp-500-futures-tick-data-sp](https://www.kaggle.com/finnhub/sp-500-futures-tick-data-sp). \
