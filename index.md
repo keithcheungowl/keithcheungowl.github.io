@@ -1,7 +1,7 @@
 # Welcome to my GitHub Page
 
 This page shows some of the projects I'm working on. Click on the heading to go to the repository. \
-All projects are done in Python in Jupyter Notebook. Results are exported to an Excel file.
+All projects are done in Python in Jupyter Notebook.
 
 # [My GitHub profile](https://github.com/keithcheungowl)
 My GitHub profile can be found here: [https://github.com/keithcheungowl](https://github.com/keithcheungowl).
