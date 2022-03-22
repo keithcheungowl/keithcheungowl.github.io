@@ -8,7 +8,7 @@ My GitHub profile can be found here: [https://github.com/keithcheungowl](https:/
 
 # Projects
 ## [Codewars exercises](https://github.com/keithcheungowl/Codewars)
-Contains Codewars exercises and solutions. See Codewars: https://www.codewars.com/
+Contains Codewars exercises and solutions. See Codewars: [https://www.codewars.com/](https://www.codewars.com/)
 
 ## [S&P 500 futures](https://github.com/keithcheungowl/SP500Futures)
 This repository analyses tick data for the S&P 500 futures contract, SP, for 2000–2019. \
