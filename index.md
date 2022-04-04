@@ -25,5 +25,3 @@ We get aggregated statistics, construct the league table, construct the table of
 ## Betfair data
 This project will look at data from the betting exchange Betfair. \
 Betfair historical data can be found here: [https://historicdata.betfair.com/#/home](https://historicdata.betfair.com/#/home).
-
-https://www.codewars.com/users/owldragon/badges/large
