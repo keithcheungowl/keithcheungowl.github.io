@@ -8,6 +8,9 @@ My GitHub profile can be found here: [https://github.com/keithcheungowl](https:/
 
 # Projects
 
+## [Leetcode problems](https://github.com/keithcheungowl/Leetcode)
+This repository contains solutions for Leetcode problems. Problems are categorised by topic.
+
 ## [S&P 500 futures](https://github.com/keithcheungowl/SP500Futures)
 This repository analyses tick data for the S&P 500 futures contract, SP, for 2000–2019. \
 The data comes from Finnhub via Kaggle: [https://www.kaggle.com/finnhub/sp-500-futures-tick-data-sp](https://www.kaggle.com/finnhub/sp-500-futures-tick-data-sp). \
